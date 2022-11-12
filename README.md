@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 
 
-![Vevaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautammsuthar&show_icons=true&theme=tokyonight)
+![Vevaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvevaar&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautammsuthar)](https://github.com/gautammsuthar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvevaar)](https://github.com/iamvevaar/github-readme-stats)
