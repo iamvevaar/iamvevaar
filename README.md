@@ -4,6 +4,14 @@
          width="45" /> iamvevaar💙</h1>
 
 
+# 💫 About Me :
+- 😄 Pronouns: He/His
+- 🔭 I’m currently Learning WEB DEV (Frontend is mine expertise)
+- 💖 From Desing to Code is the Game I love the most
+- 📫 How to reach me: Check social links below.
+- 🌱 I’m currently learning more about BlockChain.
+- 🤳 I vlog and clicks a lot is the most liked habit
+- ⚡ Fun fact: I spend almost most of the time with nature every day.
 
 
 ## 💻 Tech Stack
