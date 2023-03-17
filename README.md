@@ -10,7 +10,7 @@
 - 💖 From Desing to Code is the Game I love the most
 - 📫 How to reach me: Check social links below.
 - 🌱 I’m currently learning more about BlockChain.
-- 🤳 I vlog and clicks a lot is the most liked habit
+- 🤳 I vlog and clicks a lot is the habit i likes the most
 - ⚡ Fun fact: I spend almost most of the time with nature every day.
 
 
