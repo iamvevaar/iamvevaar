@@ -37,3 +37,5 @@
 ![Vevaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamvevaar&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvevaar&theme=tokyonight)](https://github.com/iamvevaar/github-readme-stats)
+
+[![](https://visitcount.itsvg.in/api?id=KrishanuMishra&icon=0&color=0)](https://visitcount.itsvg.in)
