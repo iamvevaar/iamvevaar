@@ -9,7 +9,7 @@
 - 🔭 I’m currently Learning WEB DEV (Frontend is mine expertise)
 - 💖 From Desing to Code is the Game I love the most
 - 📫 How to reach me: Check social links below.
-- 🌱 I’m currently learning more about BlockChain.
+- 🌱 I’m currently learning more about AI.
 - 🤳 I vlog and clicks a lot is the habit i likes the most
 - ⚡ Fun fact: I spend almost most of the time with nature every day.
 
